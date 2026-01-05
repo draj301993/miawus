@@ -1,4 +1,4 @@
-<apex:page controller="ChatFlowController" > 
+<apex:page controller="ChatFlowController" >
 
   <style>
     #chat-widget {
